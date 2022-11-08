@@ -24,7 +24,8 @@ AddAuditToRegKey “HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run”
 
 These functions are extremely useful in configuring a windows machine for auditing object access in sensitive folders and registry entries for example:
 
-https://www.criticalstart.com/windows-security-event-logs-what-to-monitor/
+https://www.criticalstart.com/windows-security-event-logs-what-to-monitor/ <br>
+https://attack.mitre.org/techniques/T1547/001/
 
 Run at startup keys: 
 

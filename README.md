@@ -6,7 +6,7 @@ Accelerate the process of setting SACLs on folders and registry entries for audi
 
 ## General info
 ORGINIAL FUNCTIONS FOUND @ https://giuoco.org/security/configure-file-and-registry-auditing-with-powershell/
-CREDITS: Aaron Giuoco
+CREDITS: Aaron Giuoco<br>
 Here are two PowerShell functions that can help you configure the SACLs on files and registry keys much faster.
 The first function, AddAuditToFile, is used to add auditing to a File or Folder object.
 AddAuditToRegKey is the name of the second function. 
